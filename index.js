@@ -18,4 +18,4 @@ function sort (arr, comparator) {
     }
     return true;
 }
-exports.sort;
+module.exports = sort;
