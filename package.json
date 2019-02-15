@@ -1,6 +1,6 @@
 {
   "name": "jl-sorted",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a packger for array sort by jl",
   "main": "index.js",
   "scripts": {
