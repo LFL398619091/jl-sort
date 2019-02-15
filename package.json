@@ -1,0 +1,16 @@
+{
+  "name": "jl-sorted",
+  "version": "1.0.0",
+  "description": "a packger for array sort by jl",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "array",
+    "sort",
+    "jl"
+  ],
+  "author": "muxi",
+  "license": "MIT"
+}
